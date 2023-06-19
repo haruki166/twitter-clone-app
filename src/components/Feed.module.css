@@ -1,0 +1,10 @@
+.feed {
+  flex: 1;
+  overflow-y: scroll;
+  background-color: #333333;
+  height: 100vh;
+  padding: 5%;
+}
+.feed::-webkit-scrollbar {
+  display: none;
+}
